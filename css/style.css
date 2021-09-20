@@ -193,7 +193,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover {
-    heifght: inherit;
+    height: inherit;
     padding: 3em 0;
   }
 }
@@ -206,7 +206,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover.fh5co-cover_2 {
-    heifght: inherit;
+    height: inherit;
     padding: 3em 0;
   }
 }
@@ -548,7 +548,6 @@ figure {
 
 #fh5co-work-section,
 #fh5co-services-section,
-#fh5co-content-section,
 #fh5co-work-section_2,
 #fh5co-blog-section,
 #fh5co-features {
@@ -557,7 +556,6 @@ figure {
 @media screen and (max-width: 768px) {
   #fh5co-work-section,
   #fh5co-services-section,
-  #fh5co-content-section,
   #fh5co-work-section_2,
   #fh5co-blog-section,
   #fh5co-features {
@@ -896,7 +894,7 @@ figure {
 }
 
 #fh5co-feature-product {
-  padding: 7em 0;
+  padding-top: 75px;
 }
 
 #fh5co-services,
