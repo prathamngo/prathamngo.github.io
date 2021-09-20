@@ -108,7 +108,7 @@ figure {
   margin-left: 0;
 }
 .header-top .fh5co-link a:hover {
-  color: white !important;
+  color: #1a1a1a !important;
 }
 @media screen and (max-width: 768px) {
   .header-top .fh5co-link {
@@ -131,7 +131,7 @@ figure {
 .header-top .fh5co-social a:focus,
 .header-top .fh5co-social a:active {
   text-decoration: none;
-  color: white !important;
+  color: #1a1a1a !important;
 }
 .header-top .fh5co-social a:hover i,
 .header-top .fh5co-social a:focus i,
@@ -1196,7 +1196,7 @@ figure {
 #footer p a:hover,
 #footer p a:active,
 #footer p a:focus {
-  color: rgba(255, 255, 255, 0.9) !important;
+  color: #1a1a1a !important;
 }
 
 .btn {
